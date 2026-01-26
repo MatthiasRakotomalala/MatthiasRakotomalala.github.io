@@ -1,7 +1,12 @@
 theme: jekyll-theme-minimal
-title: Matthias Rakotomalala
-logo: /Images/photoMRakoto.jpg
-description: Postdoctoral Researcher in Mathematics at the Technical University of Munich <br> <a href="mailto:matthias.rakotomalala@tum.de">&#9993; matthias.rakotomalala@tum.de </a>
+title: "Matthias Rakotomalala, Dr."
+logo: "/Images/photoMRakoto.jpg"
+description: >
+  <a href="{{ '/' | relative_url }}">Home</a> | 
+  <a href="{{ '/publications' | relative_url }}">Publications</a>
+  <br><br>
+  Postdoctoral Researcher in Mathematics at the Technical University of Munich.<br>
+  <a href="mailto:matthias.rakotomalala@tum.de">&#9993; matthias DOT rakotomalala AT tum DOT de</a>
 github:
   is_user_page: false
   is_project_page: false
