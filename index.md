@@ -8,4 +8,4 @@ My thesis, <i><u>On some systems of partial differential equations of the mean-f
 My research focuses on the analysis of partial differential equations and stochastic differential equations. It orbits around understanding the emergence of collective behaviors in mean-field models of large populations of interacting agents or particles, with applications in biology, economics, and physics.
 
 ![Monte Carlo Simulation of an ant-like active matter model](/Images/SimulationAntChemotaxis.jpg)
-*Monte Carlo particle simulations of the model introduced in [3](https://www.worldscientific.com/doi/abs/10.1142/S0218202525500496), motivated by collective ant behavior.*
+*Monte Carlo particle simulations of the model introduced in this [paper](https://www.worldscientific.com/doi/abs/10.1142/S0218202525500496), motivated by collective ant behavior.*
