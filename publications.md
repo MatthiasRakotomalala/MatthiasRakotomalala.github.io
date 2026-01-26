@@ -1,4 +1,4 @@
-## Publications
+# Publications
 
 - *Existence of spot and lane stationary solutions for an ant active matter PDE model*, with **Oscar de Witt**, arXiv preprint, [arXiv:2504.01765](https://arxiv.org/abs/2601.16820), 2026.
 
