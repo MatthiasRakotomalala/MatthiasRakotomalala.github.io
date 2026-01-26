@@ -1,7 +1,7 @@
 # Home
 
 I am currently a postdoctoral researcher at the Technical University of Munich, affiliated with the Chair of Analysis and Modelling (Prof. [Johannes Zimmer](https://www.math.cit.tum.de/math/personen/professuren/zimmer-johannes/)). I defended my PhD in Applied Mathematics on September 3, 2025, at École polytechnique (CMAP), under the supervision of Dr. [Charles Bertucci](https://charles-bertucci.github.io/) (Chargé de recherche, CNRS).
-My thesis, On some systems of partial differential equations of the mean-field type, is available [here](https://theses.hal.science/tel-05309579v1).
+My thesis, <i><u>On some systems of partial differential equations of the mean-field type</u></i>, is available [here](https://theses.hal.science/tel-05309579v1).
 
 ## Research Interests
 
