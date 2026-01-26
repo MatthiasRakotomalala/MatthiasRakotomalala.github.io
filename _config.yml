@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Matthias Rakotomalala
 logo: /Images/photoMRakoto.jpg
+favicon: favicon.ico
 description: Postdoctoral Researcher in Mathematics at the Technical University of Munich
 github:
   is_user_page: false
