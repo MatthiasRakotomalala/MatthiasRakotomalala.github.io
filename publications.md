@@ -1,6 +1,6 @@
 # Publications
 
-- *Existence of spot and lane stationary solutions for an ant active matter PDE model*, with Oscar de Witt, arXiv preprint, [arXiv:2504.01765](https://arxiv.org/abs/2601.16820), 2026.
+- *Existence of spot and lane stationary solutions for an ant active matter PDE model*, with Oscar de Wit, arXiv preprint, [arXiv:2504.01765](https://arxiv.org/abs/2601.16820), 2026.
 
 - *Existence and dimensional lower bound for the global attractor of a PDE model for ant trail formation*, with Oscar de Wit, arXiv preprint, [arXiv:2504.01765](https://arxiv.org/abs/2504.01765), 2025.
 
