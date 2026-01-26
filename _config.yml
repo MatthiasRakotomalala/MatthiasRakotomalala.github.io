@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: "Matthias Rakotomalala, Dr."
+title: "Matthias Rakotomalala"
 logo: "/Images/photoMRakoto.jpg"
 description: >
   <a href="{{ '/' | relative_url }}">Home</a> | 
